@@ -32,7 +32,7 @@ export default function OurProducts() {
                                                     <a href="#">Chroniq Elite Pro</a>
                                                 </h3>
                                                 <p>
-                                                    $39.00 <span>$60.00</span>
+                                                    NRs 5,187 <span>NRs 7,980</span>
                                                 </p>
                                             </div>
                                         </div>
@@ -52,7 +52,7 @@ export default function OurProducts() {
                                                     <a href="#">Zenvia Smart Fusion</a>
                                                 </h3>
                                                 <p>
-                                                    $49.00 <span>$70.00</span>
+                                                    NRs 6,517 <span>NRs 9,310</span>
                                                 </p>
                                             </div>
                                         </div>
@@ -72,7 +72,7 @@ export default function OurProducts() {
                                                     <a href="#">BeatTrack Sport+</a>
                                                 </h3>
                                                 <p>
-                                                    $59.00 <span>$80.00</span>
+                                                    NRs 7,847 <span>NRs 10,640</span>
                                                 </p>
                                             </div>
                                         </div>
@@ -92,7 +92,7 @@ export default function OurProducts() {
                                                     <a href="#">Neowrist AI Sync</a>
                                                 </h3>
                                                 <p>
-                                                    $69.00 <span>$90.00</span>
+                                                    NRs 9,177 <span>NRs 11,970</span>
                                                 </p>
                                             </div>
                                         </div>
@@ -112,7 +112,7 @@ export default function OurProducts() {
                                                     <a href="#">Zenvia Smart Fusion</a>
                                                 </h3>
                                                 <p>
-                                                    $49.00 <span>$70.00</span>
+                                                    NRs 6,517 <span>NRs 9,310</span>
                                                 </p>
                                             </div>
                                         </div>
