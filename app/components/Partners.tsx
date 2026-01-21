@@ -44,7 +44,7 @@ export default function Partners() {
                                     <div className="partners-contact-box-content">
                                         <p>Need help!</p>
                                         <h3>
-                                            <a href="tel:+12345963">+91 - 123 592 357</a>
+                                            <a href="tel:+9779812345678">+977 981-2345678</a>
                                         </h3>
                                     </div>
                                 </div>

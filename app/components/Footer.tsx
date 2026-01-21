@@ -61,7 +61,7 @@ export default function Footer() {
                                         </div>
                                         <div className="footer-contact-content">
                                             <p>
-                                                <a href="tel:123892357">+91 - 123 5892 357</a>
+                                                <a href="tel:+9779812345678">+977 981-2345678</a>
                                             </p>
                                         </div>
                                     </div>
@@ -72,7 +72,7 @@ export default function Footer() {
                                         </div>
                                         <div className="footer-contact-content">
                                             <p>
-                                                <a href="mailto:info@domainname.com">info@domainname.com</a>
+                                                <a href="mailto:info@dharmagat.com.np">info@dharmagat.com.np</a>
                                             </p>
                                         </div>
                                     </div>
@@ -82,7 +82,7 @@ export default function Footer() {
                                             <img src="/images/icon-location.svg" alt="Location" />
                                         </div>
                                         <div className="footer-contact-content">
-                                            <p>123 High Street, London, W1A 1AA, United Kingdom</p>
+                                            <p>Bharatpur-2, Chitwan, Nepal</p>
                                         </div>
                                     </div>
                                 </div>
@@ -98,22 +98,22 @@ export default function Footer() {
                             <div className="footer-social-links">
                                 <ul>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://instagram.com/dharmub376" target="_blank" rel="noopener noreferrer">
                                             <i className="fa-brands fa-instagram" />
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://facebook.com/dharmub376" target="_blank" rel="noopener noreferrer">
                                             <i className="fa-brands fa-facebook-f" />
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://x.com/dharmub376" target="_blank" rel="noopener noreferrer">
                                             <i className="fa-brands fa-x-twitter" />
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://pinterest.com/dharmub376" target="_blank" rel="noopener noreferrer">
                                             <i className="fa-brands fa-pinterest-p" />
                                         </a>
                                     </li>
